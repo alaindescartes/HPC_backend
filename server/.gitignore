@@ -56,3 +56,8 @@ $RECYCLE.BIN/
 ._*
 .Spotlight-V100
 .Trashes
+  ../.DS_Store
+        ../.gitignore
+        ../.idea/
+        ../client/
+        ../package.json
