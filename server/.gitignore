@@ -1,8 +1,19 @@
-../.DS_Store
-../.gitignore
- ../.idea/
-../client/
-../package.json
-/.DS_Store
-/node_modules
+# macOS specific files
+.DS_Store
 
+# Node modules
+node_modules/
+
+# Ignore idea folder for JetBrains IDEs
+.idea/
+
+# Ignore built files
+client/build/
+
+# Environment variables
+.env
+
+# Other ignores
+client/
+package.json
+.gitignore
